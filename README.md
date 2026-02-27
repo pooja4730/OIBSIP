@@ -11,13 +11,13 @@ All projects were developed using **Python** and executed in **Google Colab**.
 Worked on multiple data analysis and machine learning projects using Python and Google Colab, focusing on data cleaning, exploratory analysis, visualization, and predictive modeling.
 
 ### 1. Problem01.ipynb (EDA on Retail Sales Data)
-- Description: Performed exploratory data analysis to identify sales trends, patterns, and customer purchasing behavior using Python.
+- Performed exploratory data analysis to identify sales trends, patterns, and customer purchasing behavior using Python.
 - 
 ### 3. Problem02.ipynb (Customer Segmentation)
-- Description: Analyzed customer data and applied clustering techniques to group customers based on purchasing patterns.
+- Analyzed customer data and applied clustering techniques to group customers based on purchasing patterns.
 
 ### 4. Problem03.ipynb (Sentiment Analysis)
-– Description :Built a model to analyze and classify textual reviews into positive, negative, or neutral sentiments.
+– Built a model to analyze and classify textual reviews into positive, negative, or neutral sentiments.
 
 ### 5. Problem04.ipynb (Data Cleaning) 
 – Processed raw datasets by handling missing values, duplicates, and inconsistencies to prepare data for analysis.
