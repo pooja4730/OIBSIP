@@ -25,15 +25,6 @@ Worked on multiple data analysis and machine learning projects using Python and 
 ### 5. Problem05.ipynb (House Price Prediction (Linear Regression) )
 – Implemented a regression model to predict housing prices based on property features.
 
-### 6. Problem06.ipynb (Wine Quality Prediction)
-– Developed a machine learning model to classify wine quality using physicochemical attributes.
-
-### 7. Problem07.ipynb (Fraud Detection) 
-– Applied classification techniques to identify potentially fraudulent transactions in datasets.
-
-### 8. Problem08.ipynb (Android App Market Analysis)
-– Explored Google Play Store data to analyze app categories, ratings, installs, and market trends.
-
 All projects were implemented using Python in Google Colab, demonstrating fundamental programming concepts, data manipulation, and analytical techniques.
 
 ## Author
